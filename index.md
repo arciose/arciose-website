@@ -3,10 +3,9 @@ title: Home
 layout: default
 ---
 Your solution experts.
-
+<br><br>
 
 Meet the Team.
-
 <div class="columns">
   <div class="column">
     <img src="https://via.placeholder.com/250x350" alt="Michael Coaxum">
@@ -26,5 +25,5 @@ Meet the Team.
 </div>
 
 Affiliate Links
-***
+<br>
 [![](http://www.namesilo.com/affiliate/banner_gen.php?aid=1ac6298kc&bid=3 "Affiliate link.")](http://www.namesilo.com/?rid=1ac6298kc)
