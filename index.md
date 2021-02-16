@@ -7,8 +7,6 @@ Your solution experts.
 
 Meet the Team.
 
-<div>
-
 ![Michael Coaxum](https://via.placeholder.com/250x350)
 <summary>Michael Coaxum</summary>
 <details></details>
@@ -20,8 +18,6 @@ Meet the Team.
 ![Hali Scher](https://via.placeholder.com/250x350)
 <summary>Hali Scher</summary>
 <details></details>
-
-</div>
 
 
 
