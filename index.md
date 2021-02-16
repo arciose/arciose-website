@@ -1,5 +1,5 @@
 ---
-title: Solution Experts
+title: Home
 layout: default
 ---
 
