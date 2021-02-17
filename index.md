@@ -26,7 +26,3 @@ Meet the Team
 </div>
 
 <iframe frameborder="0" style="height:660px;border:none;" src='https://forms.zohopublic.com/davidgumm/form/ContactForm/formperma/CpmiDIDArCcRKX2BqoU4OExo18-jVS5D_1tJOkfn-t8'></iframe>
-
-Affiliate Links
-<br/>
-[![](http://www.namesilo.com/affiliate/banner_gen.php?aid=1ac6298kc&bid=3 "Affiliate link.")](http://www.namesilo.com/?rid=1ac6298kc)
