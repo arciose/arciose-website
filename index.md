@@ -11,21 +11,21 @@ Meet the Team
   <div class="column">
     <img src="https://via.placeholder.com/250x350" alt="Michael Coaxum">
     <summary>Michael Coaxum</summary>
-    <details></details>
+    <!-- <details></details> -->
   </div>
   <div class="column">
     <img src="https://via.placeholder.com/250x350" alt="David Gumm">
     <summary>David Gumm</summary>
-    <details></details>
+    <!-- <details></details> -->
   </div>
   <div class="column">
     <img src="https://via.placeholder.com/250x350" alt="Hali Scher">
     <summary>Hali Scher</summary>
-    <details></details>
+    <!-- <details></details> -->
   </div>
 </div>
 
-<iframe frameborder="0" style="height:500px;width:99%;border:none;" src='https://forms.zohopublic.com/davidgumm/form/ContactForm/formperma/CpmiDIDArCcRKX2BqoU4OExo18-jVS5D_1tJOkfn-t8'></iframe>
+<iframe frameborder="0" style="height:660px;border:none;" src='https://forms.zohopublic.com/davidgumm/form/ContactForm/formperma/CpmiDIDArCcRKX2BqoU4OExo18-jVS5D_1tJOkfn-t8'></iframe>
 
 Affiliate Links
 <br/>
