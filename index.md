@@ -5,21 +5,21 @@ layout: default
 <div class="columns">
   <div class="column column-no-padding">
     <figure class="has-text-centered">
-      <img class="image is-14by9" src="/images/michael.jpg" alt="Michael Coaxum">
+      <img class="image is-14by9" src="/assets/images/michael.jpg" alt="Michael Coaxum">
       <figcaption>Michael Coaxum</figcaption>
       <details><a href="https://www.linkedin.com/in/michael-coaxum-76887523/">Linkedin</a></details>
     </figure>
   </div>
   <div class="column column-no-padding">
     <figure class="has-text-centered">
-      <img class="image is-14by9" src="/images/david.jpg" alt="David Gumm">
+      <img class="image is-14by9" src="/assets/images/david.jpg" alt="David Gumm">
       <figcaption>David Gumm</figcaption>
       <details><a href="https://linkedin.com/in/gumm-david/">Linkedin</a></details>
     </figure>
   </div>
   <div class="column column-no-padding">
     <figure class="has-text-centered">
-      <img class="image is-14by9" src="/images/hali.jpg" alt="Hali Scher">
+      <img class="image is-14by9" src="/assets/images/hali.jpg" alt="Hali Scher">
       <figcaption>Hali Scher</figcaption>
       <details>
         <a href="https://www.linkedin.com/in/hali-scher-2117631ba/">Linkedin</a>
