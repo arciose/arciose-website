@@ -2,6 +2,7 @@
 title: Home
 layout: default
 ---
+
 <div class="columns">
   <div class="column">
     <img class="image is-14by9" src="/images/michael.jpg" alt="Michael Coaxum">
